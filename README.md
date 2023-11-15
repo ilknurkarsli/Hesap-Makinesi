@@ -39,6 +39,5 @@ internal class Program
             }
             Console.WriteLine("sonuc: " + sonuc);
     
-
     }
 }
